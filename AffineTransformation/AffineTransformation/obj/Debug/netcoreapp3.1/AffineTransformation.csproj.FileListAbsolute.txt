@@ -1,0 +1,16 @@
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\bin\Debug\netcoreapp3.1\AffineTransformation.exe
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\bin\Debug\netcoreapp3.1\AffineTransformation.deps.json
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\bin\Debug\netcoreapp3.1\AffineTransformation.runtimeconfig.json
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\bin\Debug\netcoreapp3.1\AffineTransformation.runtimeconfig.dev.json
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\bin\Debug\netcoreapp3.1\AffineTransformation.dll
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\bin\Debug\netcoreapp3.1\AffineTransformation.pdb
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\obj\Debug\netcoreapp3.1\AffineTransformation.csproj.AssemblyReference.cache
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\obj\Debug\netcoreapp3.1\AffineTransformation.Form1.resources
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\obj\Debug\netcoreapp3.1\AffineTransformation.csproj.GenerateResource.cache
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\obj\Debug\netcoreapp3.1\AffineTransformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\obj\Debug\netcoreapp3.1\AffineTransformation.AssemblyInfoInputs.cache
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\obj\Debug\netcoreapp3.1\AffineTransformation.AssemblyInfo.cs
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\obj\Debug\netcoreapp3.1\AffineTransformation.csproj.CoreCompileInputs.cache
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\obj\Debug\netcoreapp3.1\AffineTransformation.dll
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\obj\Debug\netcoreapp3.1\AffineTransformation.pdb
+C:\Users\Masood\Downloads\Computer Graphics\Lab3\AffineTransformation\AffineTransformation\obj\Debug\netcoreapp3.1\AffineTransformation.genruntimeconfig.cache
