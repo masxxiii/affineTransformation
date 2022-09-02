@@ -1,5 +1,5 @@
 # AffineTransformation
-A simple windows forms program to apply affine transformations to a given figure. The program provides the following functionalities:
+A simple Windows Forms program to apply affine transformations to a given figure. The program provides the following functionalities:
 * **Draw** a given figure.
 * **Return** a figure to its intitial position.
 * **Rotate** a figure by transformation.
